@@ -1,0 +1,19 @@
+.pokemon-card {
+  width: 10rem;
+  height: 10.5rem;
+  text-transform: capitalize;
+  .card-img-top {
+    width: 6rem;
+    height: 6rem;
+    margin: auto;
+  }
+}
+
+.pokemon-card-loading {
+  width: 10rem;
+  height: 10.5rem;
+
+  .styled-spinner {
+    margin: auto;
+  }
+}
